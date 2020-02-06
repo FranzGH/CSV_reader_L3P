@@ -1,0 +1,2 @@
+lane_SS,lon_pos_obj_SS,diff_speed_and_lim_SS,lat_pos_obj_SS,class_obj_SS,len_obj_SS,wid_obj_SS,hei_obj_SS,min_THW,speed_SS,min_speed,min_long_acc,m_long_acc,min_long_dist_2_obj,speed_at_brake_or_steer_onset,Long_pos_of_obj_at_brake_or_streer_onset,sc_start_idx,N_samples,speedLimit,temperature,baseline,driver_type,scenario,condition,road_type,driver_type_tag
+,,,,,,,,,,,,,,,,,,,,,,,,,

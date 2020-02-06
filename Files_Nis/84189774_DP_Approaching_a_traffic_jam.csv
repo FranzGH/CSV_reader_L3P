@@ -1,0 +1,2 @@
+lon_pos_obj_SS,lat_pos_obj_SS,lan_V_SS,speed_SS,obj_speed_SS,long_acc_SS,obj_long_acc_SS,diff_speed_and_limit_SS,min_TTC_gt_0,min_THW,min_acc_obj,max_acc_obj,m_acc_obj,min_rel_acc_obj,max_rel_acc_obj,class_of_obj,len_of_obj,wid_of_obj,hei_of_obj,min_speed,min_long_acc,m_long_acc,sd_long_acc,min_long_dist_2_obj,obj_speed_ES,speed_at_brake_or_steer_onset,Long_pos_of_obj_at_brake_or_streer_onset,sc_start_idx,N_samples,speedLimit,temperature,baseline,driver_type,scenario,condition,road_type,driver_type_tag
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+N_v_lt_02kmh_div_h,m_Dur_v_lt_02kmh,baseline,N_samples,driver_type,scenario,condition,road_type,driver_type_tag
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,All,Professional
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,Motorway,Professional
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,Urban1,Professional
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,Urban2,Professional
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,Urban3,Professional
+0,0,1,0,1,Driving_in_traffic_jam,Baseline,Parking,Professional

@@ -1,0 +1,7 @@
+perc_time_ADF_av,dur_sec_ADF_av,N_pl_TORh,N_pl_TOR_div_N_tot_TOR,m_Energ_Cons_div_100_km,N_harsh_br_h,N_DrivingScenario_X_h,time_in_driv_sce_div_time_in_condition,N_Cut_in_div_h,N_LanChg_LeadV_div_h,N_ax_RV_lt_Thr_div_h,N_THW_RV_lt_Thr_div_h,N_TTC_RV_lt_Thr_div_h,N_LonDist_RV_lt_Thr_div_h,baseline,N_samples,driver_type,condition,road_type,driver_type_tag
+85.218072603813,[],0,0,0,0,[58 0 96 100 20 0 14 0 0],[0.1042482806651 0 0.492992078001219 0.291416383738139 0.0459650039174719 0 0.0449203447375294 0 0],14,28,125,92,227,2,1,22974,1,Baseline,All,Professional
+0,[],0,0,0,0,[0 0 0 0 0 0 0 0 0],[NaN NaN NaN NaN NaN NaN NaN NaN NaN],0,0,0,0,0,0,1,0,1,Baseline,Motorway,Professional
+0,[],0,0,0,0,[0 0 0 0 0 0 0 0 0],[NaN NaN NaN NaN NaN NaN NaN NaN NaN],0,0,0,0,0,0,1,0,1,Baseline,Urban1,Professional
+0,[],0,0,0,0,[0 0 0 0 0 0 0 0 0],[NaN NaN NaN NaN NaN NaN NaN NaN NaN],0,0,0,0,0,0,1,0,1,Baseline,Urban2,Professional
+0,[],0,0,0,0,[0 0 0 0 0 0 0 0 0],[NaN NaN NaN NaN NaN NaN NaN NaN NaN],0,0,0,0,0,0,1,0,1,Baseline,Urban3,Professional
+0,[],0,0,0,0,[0 0 0 0 0 0 0 0 0],[NaN NaN NaN NaN NaN NaN NaN NaN NaN],0,0,0,0,0,0,1,0,1,Baseline,Parking,Professional
