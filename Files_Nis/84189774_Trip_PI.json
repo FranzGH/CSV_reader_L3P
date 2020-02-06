@@ -1,0 +1,8 @@
+[
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[85.218072603813,[],0,0,0,0,[58,0,96,100,20,0,14,0,0],[0.1042482806651,0,0.492992078001219,0.291416383738139,0.0459650039174719,0,0.0449203447375294,0,0],14,28,125,92,227,2,1,22974,1]},"tags":["Baseline","All","Professional"]},
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[0,[],0,0,0,0,[0,0,0,0,0,0,0,0,0],[null,null,null,null,null,null,null,null,null],0,0,0,0,0,0,1,0,1]},"tags":["Baseline","Motorway","Professional"]},
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[0,[],0,0,0,0,[0,0,0,0,0,0,0,0,0],[null,null,null,null,null,null,null,null,null],0,0,0,0,0,0,1,0,1]},"tags":["Baseline","Urban1","Professional"]},
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[0,[],0,0,0,0,[0,0,0,0,0,0,0,0,0],[null,null,null,null,null,null,null,null,null],0,0,0,0,0,0,1,0,1]},"tags":["Baseline","Urban2","Professional"]},
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[0,[],0,0,0,0,[0,0,0,0,0,0,0,0,0],[null,null,null,null,null,null,null,null,null],0,0,0,0,0,0,1,0,1]},"tags":["Baseline","Urban3","Professional"]},
+{"thing":"84189774","feature":"Trip_PI","device":"Matlab","samples":{"values":[0,[],0,0,0,0,[0,0,0,0,0,0,0,0,0],[null,null,null,null,null,null,null,null,null],0,0,0,0,0,0,1,0,1]},"tags":["Baseline","Parking","Professional"]}
+]
